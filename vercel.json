@@ -1,0 +1,10 @@
+{
+    "builds": [
+      {
+        "src": "src/**/*",
+        "use": "@vercel/node"
+      }
+    ],
+    "outputDirectory": "dist"
+  }
+  
