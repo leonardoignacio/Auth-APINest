@@ -1,0 +1,4 @@
+DATABASE_URL="postgresql://root@localhost:3306/prisma_teste"
+DIRECT_URL="postgresql://root@localhost::5432/prisma_teste"
+PORT = 3000
+SECRET_KEY="MySecretEncryptationKey"
